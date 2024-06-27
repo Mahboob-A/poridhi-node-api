@@ -1,0 +1,28 @@
+{
+  "name": "first-node-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahboob Alam",
+  "license": "MIT",
+  "description": "My first node API ",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahboob-A/poridhi-node-api.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "first"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mahboob-A/poridhi-node-api/issues"
+  },
+  "homepage": "https://github.com/Mahboob-A/poridhi-node-api#readme"
+}
