@@ -95,7 +95,7 @@ app.get('/employee/:id', (req, res) => {
         const result_data = {
                 name: "Mahboob Alam",
                 dept: emp_dept,
-                ID: 101,
+                ID: emp_id,
         }
 
         if (emp_id) {
